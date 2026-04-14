@@ -1,4 +1,4 @@
-# AI Prompt Toolkit for SWE
+# AI Prompt Toolkit for SWE, SysAdmin, DevOps
 A practical system for using AI like an engineer, not just a user.
 
 A collection of reusable prompt templates that I’ve designed to help with clarity, decision-making, and efficiency when working with ChatGPT, Claude, Gemini, and other AI tools.
