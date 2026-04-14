@@ -51,3 +51,5 @@ Output requirements:
 - Clear sections
 - Bullet points
 - Practical, real-world reasoning
+
+If a recommendation introduces complexity, explicitly justify why it is necessary.
