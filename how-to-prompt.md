@@ -24,15 +24,13 @@ You'll receive:
 - Ideas and structure
 - Risks and suggestions
 
-*This is the thinking phase — not the doing phase.*
-
 ### 3. Write Down Key Decisions
 
 Summarize what you've decided before moving forward.
 
 ```text
 Decisions:
-- Use simple deployment strategy
+- Use preferred deployment strategy
 - Add logging for errors
 - Avoid complex architecture
 ````
