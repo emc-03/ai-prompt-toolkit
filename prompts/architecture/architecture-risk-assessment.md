@@ -2,21 +2,21 @@
 ## Architecture Thinking and Risk Review Template
 *This is intended to assess risks, to aid design, but will not act as a design generator.*
 
-### Architecture Risk Review Template
+Architecture Thinking & Risk Review
 
-Purpose:
--This document is a thinking aid, not a design generator.
+Purpose
+This document is a thinking aid, not a design generator.
 
 Goal:
-	- Identify risks, gaps, and misalignments
-	- Surface assumptions and unclear decisions
-	- Encourage simpler, more intentional design choices
+Identify risks, gaps, and misalignments
+Surface assumptions and unclear decisions
+Encourage simpler, more intentional design choices
 
 Guidelines:
-- Do NOT treat this as a final answer  
-- Do NOT guess missing information  
-- Prefer leaving sections blank over filling with assumptions  
-- Use this to challenge and refine your design
+Do NOT treat this as a final answer  
+Do NOT guess missing information  
+Prefer leaving sections blank over filling with assumptions  
+Use this to challenge and refine your design
 
 System Context
 Define the problem space clearly before thinking about solutions.
