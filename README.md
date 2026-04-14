@@ -5,8 +5,6 @@ A collection of reusable prompt templates that I’ve designed to help with clar
 
 These can be reused across different workflows and are not tied to any specific platform.
 
----
-
 ## Purpose
 
 This repository helps to:
@@ -16,17 +14,12 @@ This repository helps to:
 * Encourage planning before coding
 * Provide reusable templates for engineering workflows
 
----
-
 ## Method
 
 **First plan, then code.**
 
-Use a key phrase to trigger implementation:
-
-```text id="uy6e3o"
+Use a key phrase to trigger implementation example:
 "Let's Dance"
-```
 
 This unlocks:
 
@@ -34,7 +27,6 @@ This unlocks:
 * scripts
 * implementation details
 
----
 
 ## Principles
 
@@ -49,7 +41,6 @@ This unlocks:
 * Only include high-value documentation
 * Avoid redundant or low-signal resources
 
----
 
 ## Mental Model
 
@@ -61,7 +52,6 @@ Each prompt follows a simple structure:
 * **Scope** → boundaries
 * **What NOT to do** → prevent unnecessary complexity
 
----
 
 ## Working Tree
 
@@ -69,9 +59,6 @@ Each prompt follows a simple structure:
 prompts/
 resources/
 README.md
-```
-
----
 
 ## How to Use
 
@@ -83,9 +70,6 @@ README.md
 
 ```text id="ppj2xt"
 "Let's Dance"
-```
-
----
 
 ## Focus
 
