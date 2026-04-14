@@ -3,7 +3,7 @@
 *Estimate system capacity and identify scaling risks.*
 
 
-Act as a senior DevOps / Infrastructure Engineer.
+Act as a senior Infrastructure Engineer.
 
 System:
 [Describe system]
