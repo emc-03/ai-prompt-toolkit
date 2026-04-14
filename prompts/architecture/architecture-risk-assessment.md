@@ -1,6 +1,6 @@
 
-##Architecture Thinking and Risk Review Template
-This is intended to assess risks, to aid design, but will not act as a design generator.
+## Architecture Thinking and Risk Review Template
+*This is intended to assess risks, to aid design, but will not act as a design generator.*
 
 Architecture Thinking & Risk Review
 
@@ -30,18 +30,18 @@ Constraints
 Ground the design in reality.
 
 Scale:
-Time:
-Team:
-Priority:
+- Time:
+- Team:
+- Priority:
 
 Non-Functional Requirements
 Only include what is known.
 
 Latency:
-Availability:
-Security / Compliance:
-Budget:
-Observability:
+1. Availability:
+2. Security / Compliance:
+3. Budget:
+4. Observability:
 
 If unknown, leave blank. Do not infer.
 
@@ -128,33 +128,22 @@ How would you detect it?
 
 9. Operational Reality
 
-How this lives in the real world matters.
-
 How will this be deployed?
 How will issues be debugged?
 What signals indicate something is wrong?
 What becomes difficult under pressure (e.g., 2am incidents)?
 
 10. What Can Wait
-
-Protect the system from premature complexity.
-
 What is NOT required for MVP?
 What is likely premature optimization or future-proofing?
 What can be added later with minimal rework?
 
 11. Alignment Check
-
-Ensure the design fits reality.
-
 Does this match the team’s skill level?
 Does it align with timeline constraints?
 Does it reflect actual (not assumed) usage patterns?
 
 12. Final Reflection
-
-Pressure test your own thinking.
-
 What feels most uncertain?
 What is most likely over-engineered?
 What would you remove if forced to simplify?
