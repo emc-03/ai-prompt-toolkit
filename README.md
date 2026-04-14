@@ -39,7 +39,7 @@ This unlocks:
 * Only include high-value documentation
 * Avoid redundant or low-signal resources
 
-##Model
+## Model
 
 Each prompt follows a simple structure:
 
@@ -55,12 +55,11 @@ resources/
 README.md
 
 ## How to Use
-*see how-to-file*
+*see how-to-prompt.md file*
 
 ## Focus
 
 These templates are built around:
-
 * Clarity
 * Speed
 * Real-world use cases
