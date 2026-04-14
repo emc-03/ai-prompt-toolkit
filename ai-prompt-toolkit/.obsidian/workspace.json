@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "cd22fcb1c722d5a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8090eec85c144b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
         "id": "391835af37d49e80",
         "type": "tabs",
         "children": [
@@ -31,13 +11,130 @@
             "id": "5c112c8dce21202a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "prompts/sysadmin/sysadmin-checklist.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sysadmin-checklist.md"
+            }
+          },
+          {
+            "id": "2f554aa52af018dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/sysadmin/secure-log-analysis-prompt.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "secure-log-analysis-prompt.md"
+            }
+          },
+          {
+            "id": "1b0438787c57cda5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/sysadmin/secure-incident-response-prompt.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "secure-incident-response-prompt.md"
+            }
+          },
+          {
+            "id": "19557a21b25cd74b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/sysadmin/sys-admin-prompt.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sys-admin-prompt.md"
+            }
+          },
+          {
+            "id": "1cb9792a3f347aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "capacity-planning-prompt.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "capacity-planning-prompt.md"
+            }
+          },
+          {
+            "id": "98260878ba6169d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "capacity-planning-prompt.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "capacity-planning-prompt.md"
+            }
+          },
+          {
+            "id": "49b9b86a842cad2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/backend/python-api-design-checklist.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python-api-design-checklist.md"
+            }
+          },
+          {
+            "id": "9c1820ea6ecc0d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/backend/python-lite-api-checklist.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python-lite-api-checklist.md"
+            }
+          },
+          {
+            "id": "1a9436cb7b511553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/meta/savvy-follow-up-prompts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "savvy-follow-up-prompts"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -110,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "prompts/meta/savvy-follow-up-prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for savvy-follow-up-prompts"
             }
           },
           {
@@ -129,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "prompts/meta/savvy-follow-up-prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from savvy-follow-up-prompts"
             }
           },
           {
@@ -172,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "prompts/meta/savvy-follow-up-prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of savvy-follow-up-prompts"
             }
           }
         ]
@@ -199,9 +296,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "8090eec85c144b28",
+  "active": "71f13a819d3fda59",
   "lastOpenFiles": [
-    "desktop.ini",
+    "prompts/backend/python-lite-api-checklist.md.md",
+    "prompts/meta/savvy-follow-up-prompts.md",
+    "prompts/backend/python-api-design-checklist.md.md",
+    "capacity-planning-prompt.md.md",
+    "prompts/testing/testing-checklist.md.md",
+    "prompts/sysadmin/sysadmin-checklist.md.md",
+    "prompts/sysadmin/sys-admin-prompt.md.md",
+    "prompts/sysadmin/siem-security-focused-analysis.md.md",
+    "prompts/sysadmin/secure-log-analysis-prompt.md.md",
+    "prompts/learning/prompt-improver.md.md",
+    "prompts/learning/learning-template.md.md",
+    "prompts/devops/risk-assessment.md.md",
+    "prompts/backend/dotnet-checklist.md.md",
+    "prompts/devops/devops-checklist.md.md",
+    "prompts/meta/core-project-model.md",
+    "prompts/sysadmin/README.md.md",
+    "prompts/sysadmin/secure-incident-response-prompt.md.md",
+    "README/README.md.md",
+    "README/how-to-prompt.md.md",
+    "prompts/devops",
+    "prompts/architecture/architecture-template.md.md",
+    "prompts/sysadmin",
+    "prompts/learning/Web app .Net.md",
+    "prompts/meta/desktop.ini",
+    "prompts/meta",
+    "prompts/backend.md",
+    "prompts/learning.md",
+    "prompts/learning",
+    "prompts/architecture",
+    "prompts/backend",
+    "prompts/testing",
+    "prompts/NET Prompts",
+    "README",
+    "README.md",
     "Welcome.md"
   ]
 }
