@@ -9,9 +9,10 @@ These can be reused across different workflows and are not tied to any specific 
 This repository helps to:
 
 * Reduce ambiguity when using AI
-* Improve output quality with structured prompts
+* Risk Assessments
+* Improve Communication
 * Encourage planning before coding
-* Provide reusable templates for engineering workflows
+* Provide reusable templates for workflows
 
 ## Method
 
@@ -52,6 +53,7 @@ Each prompt follows a simple structure:
 ## Working Tree
 prompts/
 resources/
+how-to-prompt
 README.md
 
 ## How to Use
@@ -63,6 +65,7 @@ These templates are built around:
 * Clarity
 * Speed
 * Real-world use cases
+* Communication within Teams
 
 ## Future Improvements / Additions
 

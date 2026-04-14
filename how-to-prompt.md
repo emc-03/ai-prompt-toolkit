@@ -1,36 +1,38 @@
-````
 # How to Use Your AI Prompt Toolkit
 
 ## The 5-Step Process
 
-### 1. Pick the Right Prompt
+### Select a prompt examples
 
-Match the prompt to your task:
+Match the prompt to your task: *template 'focus'*
 
-| Situation | Prompt to Use |
-|-----------|---------------|
-| Something broke | Incident Response |
-| Debugging | Log Analysis |
-| Security issue | IAM / Security Prompt |
-| Scaling up | Capacity Planning |
-| Deploying | DevOps Checklist |
-| Designing | Architecture Prompt |
+| Situation       | Prompt to Use       |
+|----------------|---------------------|
+| Something broke | Incident Response   |
+| Debugging       | Log Analysis        |
+| Security issue  | IAM / Security      |
+| Scaling         | Capacity Planning   |
+| Deploying       | DevOps Checklist    |
+| Designing       | Architecture Prompt |
 
 ### 2. Run the Prompt in Planning Mode
 
-Paste the prompt into AI. **Do not type "Let's Dance" yet.**
+Paste the prompt into your AI tool.
 
-You'll receive:
-- Ideas and structure
-- Risks and suggestions
+**Do not type "Let's Dance", this is only to be use for code snippet output and will need future instructions, and follow up prompts**
 
-### 3. Write Down Key Decisions
+You should get:
+- structure and direction
+- risks and tradeoffs
+- suggested approaches
 
-Summarize what you've decided before moving forward.
+This phase will assess, it will not create a design. 
 
-```text
+### 3. Notation 
+
+Before moving forward, summarize :
+
 Decisions:
-- Use preferred deployment strategy
-- Add logging for errors
-- Avoid complex architecture
-````
+- Use simple deployment strategy
+- Add logging for error visibility
+- Avoid unnecessary abstraction
