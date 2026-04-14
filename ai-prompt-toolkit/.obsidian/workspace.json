@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/sysadmin/sysadmin-checklist.md.md",
+                "file": "prompts/sysadmin/sysadmin-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sysadmin-checklist.md"
+              "title": "sysadmin-checklist"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/sysadmin/secure-log-analysis-prompt.md.md",
+                "file": "prompts/sysadmin/secure-log-analysis-prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "secure-log-analysis-prompt.md"
+              "title": "secure-log-analysis-prompt"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/sysadmin/secure-incident-response-prompt.md.md",
+                "file": "prompts/sysadmin/secure-incident-response-prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "secure-incident-response-prompt.md"
+              "title": "secure-incident-response-prompt"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/sysadmin/sys-admin-prompt.md.md",
+                "file": "prompts/sysadmin/sys-admin-prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sys-admin-prompt.md"
+              "title": "sys-admin-prompt"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capacity-planning-prompt.md.md",
+                "file": "capacity-planning-prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capacity-planning-prompt.md"
+              "title": "capacity-planning-prompt"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capacity-planning-prompt.md.md",
+                "file": "capacity-planning-prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capacity-planning-prompt.md"
+              "title": "capacity-planning-prompt"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/backend/python-api-design-checklist.md.md",
+                "file": "prompts/backend/python-api-design-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-api-design-checklist.md"
+              "title": "python-api-design-checklist"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/backend/python-lite-api-checklist.md.md",
+                "file": "prompts/backend/python-lite-api-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-lite-api-checklist.md"
+              "title": "python-lite-api-checklist"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/meta/savvy-follow-up-prompts.md",
+                "file": "capacity-planning-prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "savvy-follow-up-prompts"
+              "title": "capacity-planning-prompt"
             }
           }
         ],
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompts/meta/savvy-follow-up-prompts.md",
+                "file": "capacity-planning-prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for savvy-follow-up-prompts"
+              "title": "Backlinks for capacity-planning-prompt"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prompts/meta/savvy-follow-up-prompts.md",
+                "file": "capacity-planning-prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from savvy-follow-up-prompts"
+              "title": "Outgoing links from capacity-planning-prompt"
             }
           },
           {
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompts/meta/savvy-follow-up-prompts.md",
+                "file": "capacity-planning-prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of savvy-follow-up-prompts"
+              "title": "Outline of capacity-planning-prompt"
             }
           }
         ]
@@ -298,27 +298,27 @@
   },
   "active": "71f13a819d3fda59",
   "lastOpenFiles": [
-    "prompts/backend/python-lite-api-checklist.md.md",
+    "README/README.md",
+    "README/how-to-prompt.md",
+    "prompts/testing/testing-checklist.md",
+    "prompts/sysadmin/sysadmin-checklist.md",
+    "prompts/sysadmin/sys-admin-prompt.md",
+    "prompts/sysadmin/siem-security-focused-analysis.md",
+    "prompts/sysadmin/secure-log-analysis-prompt.md",
+    "prompts/sysadmin/secure-incident-response-prompt.md",
+    "prompts/sysadmin/README.md",
+    "prompts/learning/prompt-improver.md",
+    "prompts/learning/learning-template.md",
+    "prompts/devops/risk-assessment.md",
+    "prompts/devops/devops-checklist.md",
+    "prompts/backend/python-lite-api-checklist.md",
+    "prompts/backend/python-api-design-checklist.md",
+    "prompts/backend/dotnet-checklist.md",
+    "prompts/architecture/architecture-template.md",
     "prompts/meta/savvy-follow-up-prompts.md",
-    "prompts/backend/python-api-design-checklist.md.md",
-    "capacity-planning-prompt.md.md",
-    "prompts/testing/testing-checklist.md.md",
-    "prompts/sysadmin/sysadmin-checklist.md.md",
-    "prompts/sysadmin/sys-admin-prompt.md.md",
-    "prompts/sysadmin/siem-security-focused-analysis.md.md",
-    "prompts/sysadmin/secure-log-analysis-prompt.md.md",
-    "prompts/learning/prompt-improver.md.md",
-    "prompts/learning/learning-template.md.md",
-    "prompts/devops/risk-assessment.md.md",
-    "prompts/backend/dotnet-checklist.md.md",
-    "prompts/devops/devops-checklist.md.md",
+    "capacity-planning-prompt.md",
     "prompts/meta/core-project-model.md",
-    "prompts/sysadmin/README.md.md",
-    "prompts/sysadmin/secure-incident-response-prompt.md.md",
-    "README/README.md.md",
-    "README/how-to-prompt.md.md",
     "prompts/devops",
-    "prompts/architecture/architecture-template.md.md",
     "prompts/sysadmin",
     "prompts/learning/Web app .Net.md",
     "prompts/meta/desktop.ini",
