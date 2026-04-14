@@ -1,12 +1,11 @@
-AI Prompt Toolkit for SWE, SysAdmin, DevOps
+## AI Prompt Toolkit for SWE, SysAdmin, DevOps
 A practical system for using AI like an engineer, not just a user.
 
 A collection of reusable prompt templates that I’ve designed to help with clarity, decision-making, and efficiency when working with ChatGPT, Claude, Gemini, and other AI tools.
 
 These can be reused across different workflows and are not tied to any specific platform.
 
-## Purpose
-
+## Concept
 This repository helps to:
 
 * Reduce ambiguity when using AI
@@ -18,7 +17,7 @@ This repository helps to:
 
 **First plan, then code.**
 
-Use a key phrase to trigger implementation example:
+Use a key phrase to trigger an implementation example:
 "Let's Dance"
 
 This unlocks:
@@ -27,8 +26,7 @@ This unlocks:
 * scripts
 * implementation details
 
-
-## Principles
+# Principles
 
 ### Simplicity over complexity
 
@@ -41,8 +39,7 @@ This unlocks:
 * Only include high-value documentation
 * Avoid redundant or low-signal resources
 
-
-## Mental Model
+## Model
 
 Each prompt follows a simple structure:
 
@@ -52,34 +49,20 @@ Each prompt follows a simple structure:
 * **Scope** → boundaries
 * **What NOT to do** → prevent unnecessary complexity
 
-
 ## Working Tree
-
-```text id="tnp7u6"
 prompts/
 resources/
 README.md
 
 ## How to Use
-
-1. Copy a prompt template
-2. Fill in your context
-3. Run it with your AI tool
-4. Stay in planning mode
-5. When ready, type:
-
-```text id="ppj2xt"
-"Let's Dance"
+*see how-to-prompt.md file*
 
 ## Focus
 
 These templates are built around:
-
 * Clarity
 * Speed
 * Real-world use cases
-
----
 
 ## Future Improvements / Additions
 
